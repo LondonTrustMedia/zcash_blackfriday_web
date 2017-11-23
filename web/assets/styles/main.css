@@ -9546,23 +9546,11 @@ a.text-gray-dark:hover {
     padding-top: 30px;
     padding-bottom: 35px
 }
-.mobheading {
-	display: none;
-}
-.deskheading {
-	display: block;
-}
 @media (max-width:767px) {
     .zcash-deal-item-sm {
         padding-top: 29%;
         padding-bottom: 32%
     }
-	.mobheading {
-		display: block;
-	}
-	.deskheading {
-		display: none;
-	}
 }
 
 .zcash-deal-item-md {
